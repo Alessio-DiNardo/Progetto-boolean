@@ -1,0 +1,64 @@
+h1{
+  color: lightgreen;
+}
+
+body{
+  background-image: url(background.jpg);
+  background-size: cover;
+  color: white;
+
+}
+
+.logo{
+  width: 200px
+
+}
+
+.container{
+  background-color: rgba(0, 0, 0, 0.5);
+  width: 1000px;
+  height: 800px;
+  margin: auto;
+  padding-left: 20px;
+}
+
+.colore{
+  background-color: green;
+  width: 800px;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+}
+
+
+
+
+.center{
+  display: flex;
+  justify-content: center;
+}
+
+.riga {
+  background-color: orange;
+  width: 300px;
+  height: 30px;
+  margin-bottom: 15px;
+}
+
+.rigo{
+  background-color: green;
+  width: 700px;
+  height: 30px;
+  margin-bottom: 15px;
+}
+
+.riga2{
+  background-color: red;
+  width: 100px;
+  height: 30px;
+  margin-bottom: 15px;
+}
+
+.text{
+  font-size: 25px;
+}
